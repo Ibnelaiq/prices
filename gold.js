@@ -7309,7 +7309,7 @@ let GoldRates = {
         }
     };
 
-    let SilverRate = {
+    let SilverRates = {
         "2020-02-12": {
             "USDXAG": 17.5136070213,
             "XAG": 0.0570984606
