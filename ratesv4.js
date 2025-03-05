@@ -1,4 +1,4 @@
-let GoldRates = {
+let GoldRatesv4 = {
     "2020-02-11": {
         "EURXAU": 1435.4465685879,
         "XAU": 0.0006966473
